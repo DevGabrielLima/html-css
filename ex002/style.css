@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+  font: normal 1em Arial, Helvetica, sans-serif;
+  background-color: #f2ecd8;
+}
+
+h1 {
+  font-size: 2em;
+  color: #18078a;
+}
+h2 {
+  color: #6848db;
+}
+#titlemain {
+  background-color: #2e2a2a;
+  color: white;
+  text-align: center;
+}
+.topic {
+  text-align: right;
+}
+.text {
+  text-align: justify;
+}
+
