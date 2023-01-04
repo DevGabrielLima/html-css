@@ -1,0 +1,23 @@
+body {
+  background-image: url("imagens/wallpaper002.jpg");
+  background-repeat: no-repeat;
+}
+div.bloco {
+  border: 2px solid black;
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+}
+
+div#b1 {
+  background-color: cornflowerblue;
+}
+
+div#b2 {
+  background-image: linear-gradient(to bottom, yellow, red);
+}
+div#b3 {
+  background-image: url("imagens/pattern001.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
